@@ -175,7 +175,8 @@ This will create the plots seen in figure 2.
 
 
 ### AF-vapeR  
-There will a more detailed description of this software available on \*jims github\*.  
+There will a more detailed description of this software available on https://github.com/JimWhiting91/afvaper
+
 **To obtain the raw data and process**  
 For this analysis you will need the scripts:  
 ```AF_vapeR_1.R``` and ```AF_vapeR_functions.R``` in the same folder (the scripts folder)   
