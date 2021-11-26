@@ -1,12 +1,9 @@
-# FIBR
-To accompany FIBR paper
-
 This repository contains various scripts that were used for population genomics analyses in  
 **Rapid genomic adaptation in recently introduced populations of Trinidadian guppies (Poecilia reticulata)**  
 
 This repository is written with our VCF in mind. If you want to use it for your own analyses, please check and change population/sample names and size where necessary.  
 
-Raw reads were processed with a set of in-house scripts published in Fraser et al. (2020) - Improved reference genome uncovers novel sex-linked regions in the guppy (Poecilia reticulata)
+Raw reads were processed with as https://github.com/josieparis/gatk-snp-calling
 
 All \*.sh scripts are written for SLURM based systems. Please change headers and batch format where necessary.
 
