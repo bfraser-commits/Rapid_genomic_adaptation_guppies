@@ -179,10 +179,7 @@ There will a more detailed description of this software available on https://git
 
 **To obtain the raw data and process**  
 For this analysis you will need the scripts:  
-```AF_vapeR_1.R``` and ```AF_vapeR_functions.R``` in the same folder (the scripts folder)   
-You will also need to have BCFtools installed. For a version without the use of BCFtools please see \*jims github\*.  
-
-In RStudio, run through the ```AF_vapeR_1.R``` to get the results and figures.  
+```AF_vapeR_1.R```   
+  
 
 
-### AF correlations
