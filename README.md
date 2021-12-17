@@ -184,3 +184,7 @@ For this analysis you will need the scripts:
 ### Simulations
 Details for simulations presented in this paper can be found on https://github.com/JimWhiting91/fibr_simulations
 
+### SNP Data
+Final VCF is available on figshare DOI: 10.6084/m9.figshare.17261069
+
+
